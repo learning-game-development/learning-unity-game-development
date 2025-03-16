@@ -1,0 +1,15 @@
+# Unity Example Projects
+Adventure-Sample-Game/
+Test-Unity-Content/
+
+# Unity Components
+NavMeshComponents/
+
+# VSCode workspace
+.vs
+.vscode
+.vsconfig
+*.code-workspace
+
+# Tutorial Support Files
+*.zip
