@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Pirate-Game/MainMenu.unity
+    guid: 583e498514c4ff14383728bc7fcaf90f
+  - enabled: 1
+    path: Assets/Scenes/Pirate-Game/Level1.unity
+    guid: 26cf709fa2c47fa79be4de09a12f45c3
+  - enabled: 1
+    path: Assets/Scenes/Pirate-Game/Level2.unity
+    guid: 5f9a7a2a2f086091998f8784c9dc0f12
+  m_configObjects: {}
