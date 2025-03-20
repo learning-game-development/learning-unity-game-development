@@ -1,7 +1,8 @@
 # Unity Essentials Pathway
-/Assets/_Unity Essentials
-/Assets/SuperEditor
+/Assets/_Unity Essentials/
+/Assets/SuperEditor/
 webgl_sharing
+
 
 # This .gitignore file should be placed at the root of your Unity project directory
 #
