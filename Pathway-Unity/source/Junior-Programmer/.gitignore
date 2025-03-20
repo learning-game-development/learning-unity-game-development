@@ -1,7 +1,8 @@
 # Unity Essentials Pathway
-/Assets/VisualScriptingTutorial
-/Assets/UnityTechnologies
-/Assets/SuperEditor
+/Assets/VisualScriptingTutorial/
+/Assets/UnityTechnologies/
+/Assets/SuperEditor/
+
 
 # Unity VisualScripting Generated
 /[Aa]ssets/Unity.VisualScripting.Generated

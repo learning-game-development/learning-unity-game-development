@@ -1,12 +1,12 @@
 ## Unity Packages
-/Assets/ArtzkillZnetTexturePack01
-/Assets/DogKnight
-/Assets/FImpossible Creations
-/Assets/Skybox
-/Assets/Standard Assets
-/Assets/Textures
-/Assets/ZombieAnimationPackFree
-/Assets/unity-chan!
+/Assets/ArtzkillZnetTexturePack01/
+/Assets/DogKnight/
+/Assets/FImpossible Creations/
+/Assets/Skybox/
+/Assets/Standard Assets/
+/Assets/Textures/
+/Assets/ZombieAnimationPackFree/
+/Assets/unity-chan!/
 
 
 # This .gitignore file should be placed at the root of your Unity project directory
