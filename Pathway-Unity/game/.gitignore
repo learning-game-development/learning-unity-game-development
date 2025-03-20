@@ -1,0 +1,4 @@
+# Builds and promotional materials should not be committed to the repository
+
+/Recordings/
+/WebGL-Builds/Unity-Essentials-Project/

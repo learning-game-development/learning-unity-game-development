@@ -1,0 +1,50 @@
+# ProBuilder 4.5.0
+# https://unity3d.com/unity/features/worldbuilding/probuilder
+# 4/26/2021 3:06:09 PM
+
+mtllib ./Triangular_Prism.mtl
+o Triangular_Prism
+
+g Triangular_Prism
+v 0 0 0
+v -2 0 0
+v 0 0.9999999 -1
+v -2 0.9999999 -1
+v -2 0 -1
+v -2 1 -1
+v 0 0 -1
+v 0 1 -1
+
+vt 0 0
+vt -2 0
+vt 0 1.414214
+vt -2 1.414214
+vt -1 0
+vt -1 0.9999999
+vt -1 1
+vt 2 0
+vt 2 1
+vt 0 1
+vt 1 0
+vt 1 1
+vt 1 0.9999999
+vt 0 -1
+vt -2 -1
+
+vn 0 0.7071068 0.7071068
+vn -1 0 0
+vn -0.5 0 0
+vn 0 0 0
+vn 0 0 -1
+vn 1 0 0
+vn 0.5 0 0
+vn 0 -1 0
+
+usemtl ProBuilderDefault
+f 3/3/1 4/4/1 2/2/1 1/1/1
+f 4/6/3 6/7/4 5/5/3 2/1/2
+f 6/9/5 8/10/5 7/1/5 5/8/5
+f 8/12/7 3/13/4 1/1/7 7/11/6
+f 8/1/4 6/1/4 4/1/4 3/1/4
+f 1/1/8 2/2/8 5/15/8 7/14/8
+

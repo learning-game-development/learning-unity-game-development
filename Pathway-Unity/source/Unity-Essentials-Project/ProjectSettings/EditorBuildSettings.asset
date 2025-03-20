@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Unity Essentials/Scenes/0_MainMenu_Scene.unity
+    guid: 0eac1eecd2187407c9da8013ae9797da
+  - enabled: 1
+    path: Assets/_Unity Essentials/Scenes/1_Playground_Navigation_Scene.unity
+    guid: 3c4aa835aa283484e86f037de178934c
+  - enabled: 1
+    path: Assets/_Unity Essentials/Scenes/2_KidsRoom_3D_Scene.unity
+    guid: 0007c1bb4959e43b9a37f3a226bc0343
+  - enabled: 1
+    path: Assets/_Unity Essentials/Scenes/3_Kitchen_Audio_Scene.unity
+    guid: 6ddeb5bb8dda34b6183a30b9409cd6a9
+  - enabled: 1
+    path: Assets/_Unity Essentials/Scenes/4_LivingRoom_Programming_Scene.unity
+    guid: a6368f7fda5ac4dca86952aebdc7d568
+  - enabled: 1
+    path: Assets/_Unity Essentials/Scenes/5_TopDown_2D_Scene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/_Unity Essentials/Scenes/6_Bonus_Custom_Scene.unity
+    guid: 9f23fd4a84396415f878719f61b600b0
+  m_configObjects: {}
