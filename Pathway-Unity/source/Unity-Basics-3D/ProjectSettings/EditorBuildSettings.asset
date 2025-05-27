@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/3DGamekit/Scenes/UI/Loading.unity
     guid: ebc4647ff02971c4ba1b207af066be4d
+  - enabled: 1
+    path: Assets/QuickStartTutorial.unity
+    guid: c37650a7682c1eb4ab59e0439fdc90ba
   m_configObjects: {}

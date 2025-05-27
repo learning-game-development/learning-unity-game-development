@@ -8,8 +8,8 @@
 ## :beginner: Unity Pathway Courses
 
 1. :o: [Unity Basics](https://learn.unity.com/course/unity-basics)
-	- :o: 2D Game Kit
-	- :o: 3D Game Kit
+   - :o: 2D Game Kit
+   - :o: 3D Game Kit
 2. :o: [Beginning 3D Game Development](https://learn.unity.com/course/beginning-3d-game-development)
 3. :heavy_check_mark: [Unity Essentials](https://learn.unity.com/pathway/unity-essentials)
 4. :o: [Junior Programmer](https://learn.unity.com/pathway/junior-programmer)

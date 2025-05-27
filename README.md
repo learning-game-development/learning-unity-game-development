@@ -50,6 +50,6 @@ Projects, samples and templates created to learn game development with Unity.
 
 The source code I created is free -- see the [LICENSE](UNLICENSE) file for details
 
-All game assets used in these tutorials (art, sound, music) was provided by the tutorial, and probably have their own end user license agreements.
+All game assets used in these tutorials (art, models, sound, music) was provided by the tutorial, and probably have their own end user license agreements.
 
 For assets from Unity Store please have a look at the [Asset Store Terms of Service and EULA](https://unity3d.com/legal/as_terms)
