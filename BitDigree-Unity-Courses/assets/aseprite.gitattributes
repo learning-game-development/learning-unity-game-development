@@ -1,9 +1,0 @@
-# Aseprite
-*.aseprite  binary
-*.ase       binary
-
-## Graphics
-*.gif  binary
-*.jpg  binary
-*.jpeg binary
-*.png  binary
