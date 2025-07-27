@@ -16,7 +16,7 @@
 
 ## :beginner: Other Unity Learn Courses
 
-- :heavy_check_mark: [Let's Try: Shooting with Raycasts](https://learn.unity.com/tutorial/let-s-try-shooting-with-raycasts)
+- :heavy_check_mark: [Let's Try: Shooting with Raycasts](https://learn.unity.com/tutorial-new/let-s-try-shooting-with-raycasts)
 - :o: [Introduction to Visual Scripting](https://learn.unity.com/project/introduction-to-visual-scripting?uv=2021.1)
 - :o: [Visual Scripting application: Clive the Cat's 'Visual Crypting'](https://learn.unity.com/project/visual-scripting-application-clive-the-cat-s-visual-crypting?uv=2022.3)
 
