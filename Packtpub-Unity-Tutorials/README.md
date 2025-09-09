@@ -10,9 +10,13 @@
 3. :o: Unity 4 Game Development HOTSHOT
 4. :o: Unity 4.x Cookbook
 
-## :beginner: :books: Humble Bundle Unity Tutorials
+## :beginner: :books: Humble Book and Video Bundles
 
-1. :o: Learn Unity3D Programming with UnityScript: Unity's JavaScript for Beginners -- Humble Bundle Books | Code Your Own Games
+1. Code Your Own Games:
+   - :o: [Learn Unity3D Programming with UnityScript: Unity's JavaScript for Beginners](source/Packtpub-Learn-Unity-3D/)
+2. Game Design & Animation by Packt:
+   - :o: [Game Design with Unity 2019](source/Packtpub-Learn-Unity-3D/)
+3. TODO
 
 ## :beginner: :books: Other Unity Tutorials
 
