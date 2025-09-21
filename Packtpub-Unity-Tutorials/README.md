@@ -13,7 +13,7 @@
 ## :beginner: :books: Humble Book and Video Bundles
 
 1. Code Your Own Games:
-   - :o: [Learn Unity3D Programming with UnityScript: Unity's JavaScript for Beginners](source/Packtpub-Learn-Unity-3D/)
+   - :heavy_check_mark: [git ](source/Packtpub-Learn-Unity-3D/)
 2. Game Design & Animation by Packt:
    - :o: [Game Design with Unity 2019](source/Packtpub-Learn-Unity-3D/)
 3. TODO
