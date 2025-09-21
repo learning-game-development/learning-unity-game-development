@@ -8,7 +8,7 @@
 1. :heavy_check_mark: [Unity 101 – Game Development Foundations](https://academy.zenva.com/course/unity-101-game-engine-foundations) [2020]
 2. :heavy_check_mark: [Intro to Game Development with Unity](https://academy.zenva.com/course/intro-to-unity-game-development) [2020]
 3. :heavy_check_mark: [Intro to Game Development with Unity](https://academy.zenva.com/course/intro-to-unity) [2019]
-4. :heavy_check_mark: [Intro to Game Development](https://academy.zenva.com/course/intro-to-game-development) [2018] 
+4. :heavy_check_mark: [Intro to Game Development](https://academy.zenva.com/course/intro-to-game-development) [2018]
 5. :o: [Create Your First 3D Game with Unity](https://academy.zenva.com/course/create-your-first-platformer) [2019]
 6. :o: [Intermediate C# – Build a text-based RPG in Unity](https://academy.zenva.com/course/intermediate-c-build-a-text-based-rpg-in-unity/) [2017]
 
