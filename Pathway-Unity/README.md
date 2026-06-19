@@ -14,11 +14,17 @@
 3. :heavy_check_mark: [Unity Essentials](https://learn.unity.com/pathway/unity-essentials)
 4. :o: [Junior Programmer](https://learn.unity.com/pathway/junior-programmer)
 
-## :beginner: Other Unity Learn Courses
+## :beginner: Other Unity Learning Courses
 
-- :heavy_check_mark: [Let's Try: Shooting with Raycasts](https://learn.unity.com/tutorial-new/let-s-try-shooting-with-raycasts)
 - :o: [Introduction to Visual Scripting](https://learn.unity.com/project/introduction-to-visual-scripting?uv=2021.1)
 - :o: [Visual Scripting application: Clive the Cat's 'Visual Crypting'](https://learn.unity.com/project/visual-scripting-application-clive-the-cat-s-visual-crypting?uv=2022.3)
+
+## :beginner: Unity Components Learning Courses
+
+- :heavy_check_mark: [Let's Try: Shooting with Raycasts](https://learn.unity.com/tutorial-new/let-s-try-shooting-with-raycasts)
+- :o: [Building 3D Models with ProBuilder](https://learn.unity.com/project/building-3d-models-with-probuilder)
+- :o: [Unity NavMesh](https://learn.unity.com/tutorial/unity-navmesh?version=2017.3)
+- :o: [NavMesh Baking](https://learn.unity.com/tutorial/navmesh-baking)
 
 ## :memo: Version
 
