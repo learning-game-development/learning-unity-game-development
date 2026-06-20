@@ -9,7 +9,7 @@
 
 ## Beginner
 
-1. :o: [Unity 2018 Fundamentals](https://app.pluralsight.com/library/courses/unity-2018-fundamentals/table-of-contents)
+1. :o: [Unity 2018 Fundamentals](source/Unity-Fundamentals/)
 
 ## :memo: Version
 
